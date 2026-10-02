@@ -1,0 +1,24 @@
+# Dependencies and test output
+node_modules/
+test-results/
+playwright-report/
+*.log
+
+# OS files
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# A copy of just the app, for sending to someone to try (npm run package:send)
+private-send/
+
+# The clean copy for uploading to GitHub (npm run package:github)
+github-upload/
