@@ -1,0 +1,4 @@
+# Keep line endings consistent whether files were edited on Windows or Mac/Linux.
+* text=auto
+*.woff2 binary
+*.png binary
